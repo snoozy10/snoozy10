@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my li'l branch on the Giant Git Tree!👋
 
 <!--
 **snoozy10/snoozy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
